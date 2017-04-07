@@ -3,6 +3,7 @@
 See these files.
 
 https://www.python.org/dev/peps/pep-0544/#using-protocols-in-python-2-7-3-5
+
 https://docs.python.org/3/library/typing.html
 
 Script langs were tried to treat codes like structural-langs(like java, go, c...)
